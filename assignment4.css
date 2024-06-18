@@ -1,0 +1,32 @@
+#mass{
+    display: flex;
+    margin: 70px;
+}
+#xs{
+    margin-right: 50px;
+    box-shadow:4px 4px 12px grey ;
+    text-align: center;
+    padding: 30px;
+}
+#xy{
+    margin-right: 50px;
+    box-shadow:4px 4px 12px grey ;
+    text-align: center;
+    padding: 30px;
+}
+#xz{
+    box-shadow:4px 4px 12px grey ;
+    text-align: center;
+    padding: 30px;
+}
+.ex{
+    text-align: center;
+}
+.red{
+  background-color: forestgreen;
+    padding: 10px;
+    border-radius: 10px;
+
+
+
+}

@@ -1,0 +1,33 @@
+.ye{
+    display: flex;
+    margin: 100px;
+}
+.us{
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Droid Sans";
+}
+.ur{
+    text-align: center;
+}
+#yt{
+    margin-right: 50px;
+    padding: 20px;
+    text-align: center;
+    box-shadow:4px 4px 12px grey ;
+
+}
+#yr{
+    padding: 20px;
+    margin-right: 50px;
+    text-align: center;
+    box-shadow:4px 4px 12px grey ;
+}
+#yz{
+    padding: 20px;
+    text-align: center;
+    box-shadow:4px 4px 12px grey ;
+}
+.rt{
+    color: lightcoral;
+}
